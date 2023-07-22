@@ -12,7 +12,7 @@ How to install (for fools):
 git clone https://github.com/Efeisot/polybar-nordic-bspwm.git
 
 
-2. Copy and paste the config.ini and colors files from the folder you cloned into the .config/polybar/ directory
+2.Copy and paste the config.ini and colors files from the folder you cloned into the .config/polybar/ directory
 
 
 3.Tadaaaa, you installed the theme :kekw:
